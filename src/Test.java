@@ -13,5 +13,7 @@ public class Test {
 
         System.out.println("This is me checking commit functionality in IntelliJ");
 
+
+        //I have something to say here
     }
 }
