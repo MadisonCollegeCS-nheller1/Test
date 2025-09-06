@@ -15,7 +15,7 @@ public class Test {
 
         System.out.println("This is me checking commit functionality in IntelliJ");
         System.out.println("Something more important");
-
+        System.out.println("42");
         //I have something to say here
         // Go ahead, say it
     }
